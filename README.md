@@ -1,4 +1,5 @@
 # About me
+I come from Uganda, and I'm currently living in Kenya.
 
 
 **d-j-bot/d-j-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

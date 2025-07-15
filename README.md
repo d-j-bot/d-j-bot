@@ -1,4 +1,6 @@
 # About me
+I come from Uganda
+I'm pursuing a General Studies Degree at St. Louis University.
 
 
 **d-j-bot/d-j-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
